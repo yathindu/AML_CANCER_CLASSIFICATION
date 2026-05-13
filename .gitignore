@@ -1,0 +1,7 @@
+
+DataSet/
+*.csv
+*.pdf
+*.pptx
+.ipynb_checkpoints/
+__pycache__/
